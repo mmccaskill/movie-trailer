@@ -2,7 +2,7 @@ import media
 import fresh_tomatoes
 
 # These are instances of movies to be shown on the website, including title, storyline,
-# link to movie poster and the movie trailer.
+# link to movie poster via movie's wikipedia page and the youtube movie trailer.
 
 the_great_escape = media.Movie("The Great Escape",
                         "250 prisoners escape from a WWII concentration camp",
