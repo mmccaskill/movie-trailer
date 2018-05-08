@@ -5,23 +5,23 @@ import fresh_tomatoes
 # link to movie poster and the movie trailer.
 
 the_great_escape = media.Movie("The Great Escape",
-                        "A story of a boy and his toys that come to life",
+                        "250 prisoners escape from a WWII concentration camp",
                         "http://upload.wikimedia.org/wikipedia/en/c/c7/Great_escape.jpg",
                         "https://www.youtube.com/watch?v=r9Q_WESQUVw")
 
 
 shawshank_redemption = media.Movie("Shawshank Redemption",
-                     "A marine on an alien planet",
+                     "A man imprisioned for murdering his wife never gives up hope",
                      "http://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
                      "https://www.youtube.com/watch?v=-6hB3S9bIaco")
 
 philadelphia_story = media.Movie("The Philadelphia Story",
-                     "Using rock music to learn",
+                     "A man an two reporters are uninvited guests to his ex-wife's wedding",
                      "http://upload.wikimedia.org/wikipedia/commons/5/54/The-Philadelphia-Story-%281940%29.jpg",
                      "https://www.youtube.com/watch?v=o1PEW45pOog")
 
 north_by_northwest = media.Movie("North by Northwest",
-                     "A rat is a chefin Paris",
+                     "A man accused of murder is recruited to be an unwitting spy",
                      "http://upload.wikimedia.org/wikipedia/commons/8/83/Northbynorthwest1.jpg",
                      "https://www.youtube.com/watch?v=ek7T9Gyl_J4")
 
