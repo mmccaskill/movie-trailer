@@ -18,7 +18,7 @@ shawshank_redemption = media.Movie("Shawshank Redemption",
                                    "http://upload.wikimedia.org/wikipedia/en/"
                                    "8/81/ShawshankRedemptionMoviePoster.jpg",
                                    "https://www.youtube.com/watch?v="
-                                   "-6hB3S9bIaco")
+                                   "6hB3S9bIaco&t=30s")
 
 philadelphia_story = media.Movie("The Philadelphia Story",
                                  "A man and two reporters are uninvited guests"
