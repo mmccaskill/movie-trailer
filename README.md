@@ -1,20 +1,21 @@
 # Movie Trailer 
-A Movie Trailer Website where users can see my favorite movies and watch the trailers.
+This website shows 6 of my favorite movies. Hover and click over each poster for a preview.
 
 # Quick Start
-Download the code
-Extract compressed file
-Open terminal and cd to the extracted folder
+Download the files
+Extract files from zip folder
 Run the application, python entertainment_center.py
-This will open up a page in your web browser
+This will open the web browser
 
 # What's included
 
 **entertainment_center.py**- The main entry to the program. Builds the movie list and calls the method to generate the web page.
-**fresh_tomatoes.py** - The provided web page generator. It takes in a list of movies and builds the HTML and opens up your default browser to display the generated HTML page.
-**media.py** - Contains the class that provides the data structure to hold movie information.
 
-A fourth file, fresh_tomatoes.html, will be generated when you run the program as described above. This file is the actual web page you would see in your browser.
+**fresh_tomatoes.py** - It takes in a list of movies and builds the HTML and opens up your default browser to display the generated HTML page.
+
+**media.py** - The class for the movie data and information.
+
+A fresh_tomatoes.html file is automatically generated that represents the web browser.
 
 # Creator
 Mark McCaskill
