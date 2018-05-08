@@ -3,8 +3,11 @@ This website shows 6 of my favorite movies. Hover and click over each poster for
 
 # Quick Start
 Download the files
+
 Extract files from zip folder
+
 Run the application, python entertainment_center.py
+
 This will open the web browser
 
 # What's included
